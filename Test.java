@@ -3,6 +3,7 @@ class Test{
    //Be sure that you have correct capitalization and spacing
    
    public static void main(String[] args){
+      System.out.println("Hello World");
    
    }
 }
